@@ -25,14 +25,16 @@ Elles contiennent des informations sur : <i> Les clients - les transactions - da
 <b> Page 1 </b><br>
 - Le panier moyen par clients est supérieur au panier moyen par transactions => <b> Cela suggère que les clients passent plusieurs transactions chacun (sinon, les deux paniers seraient similaires).</b><br>
 - Hausse du nombre moyen de transactions par client => Un comportement d'achat positif.<br>
-![image](https://github.com/user-attachments/assets/1131fe0a-09fc-416c-830f-bce9c70b6906) 
+![p1](https://github.com/user-attachments/assets/457e25cf-1a69-46ab-86c7-61a11b6a1739)
+
 
 
 <b>Page 2 </b><br>
 - Volume fait la force : Les clients petits paniers sont nombreux, donc leur contribution est majeure.<br>
 - Les clients à segment “à réactiver” ont prouvé qu’ils pouvaient rapporter beaucoup. Il faut donc les cibler en priorité avec des campagnes de réactivation !<br>
 - Les clients premium sont peu nombreux mais à forte valeur unitaire.<br>
-![image](https://github.com/user-attachments/assets/390a393b-d30a-4cf8-b93e-5e71a9aaa43c) 
+![p2](https://github.com/user-attachments/assets/5990fab5-82e4-4437-a1af-de8201a930de)
+
 
 
 🛠️ Outils & technologies<br>
