@@ -3,6 +3,10 @@
 📌 Objectif du projet :<br>
 Ce projet vise à analyser le comportement des clients à partir de données transactionnelles, afin d’identifier les segments les plus rentables et d’orienter les décisions marketing (fidélisation, relance, ciblage, etc.)<br>
 
+## Accès au rapport interactif  
+Vous pouvez consulter directement et interagir avec le dashboard en ligne ici : https://app.powerbi.com/groups/me/reports/f411c2e1-7d2f-4ac3-8018-80e389c79db7/28bd53a5180bcf5f6d0e?experience=power-bi
+
+
 🧩 Données utilisées :<br>
 Données de ventes e-commerce issues de kaggle : https://www.kaggle.com/datasets/thedevastator/online-retail-sales-and-customer-data/data <br>
 Elles contiennent des informations sur : <i> Les clients - les transactions - dates de transactions...</bi><br>
